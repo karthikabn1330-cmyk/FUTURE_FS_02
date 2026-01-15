@@ -106,20 +106,6 @@ window.showrooms = [
 window.products = [
     // --- Cars ---
     {
-        id: 'c_lux_1',
-        name: 'Lamborghini Huracan Evo',
-        brand: 'Lamborghini',
-        category: 'cars',
-        price: 40000000,
-        image: 'https://cdn.motor1.com/images/mgl/JYbWM/s3/lamborghini-huracan-evo-feature.jpg',
-        description: 'The evolution of the V10. Pure emotion, aerodynamic efficiency.',
-        fuel: 'Petrol',
-        transmission: 'Automatic/7-speed DCT',
-        specs: { engine: '5.2L(5204cc) V10', power: '630 BHP', braking: 'ABS, high-performance discs' },
-        showroomId: 'sr_2',
-
-    },
-    {
         id: 'c_lux_2',
         name: 'BMW M4 Competition',
         brand: 'BMW',
@@ -295,3 +281,4 @@ window.products = [
 
 // Initial Order History (Mock)
 window.orders = [];
+
